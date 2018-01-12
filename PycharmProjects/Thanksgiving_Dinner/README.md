@@ -1,0 +1,1 @@
+This is a cursory analysis (with no visualizations) of the Thanksgiving Dinner data from around the United States. Data was collected and cleaned by FiveThirtyEight. Additionally, as a small learning tool I uploaded the jupyter notebook and data using terminal, as opposed to the github page.
